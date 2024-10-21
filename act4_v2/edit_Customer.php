@@ -25,11 +25,11 @@
                 <input type="text" name="last_Name" value="<?= $getCustomer_ByID['last_Name']; ?>">
             </p>
             <p>
-                <label for="home_address">Home address</label> 
+                <label for="home_address">Home Address</label> 
                 <input type="text" name="home_address" value="<?= $getCustomer_ByID['home_address']; ?>">
             </p>
             <p>
-                <label for="contact_Num">Contact #</label> 
+                <label for="contact_Num">Contact Number</label> 
                 <input type="text" name="contact_Num" value="<?= $getCustomer_ByID['contact_Num']; ?>">
             </p>
             <p>
