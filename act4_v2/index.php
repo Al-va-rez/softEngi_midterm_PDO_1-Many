@@ -3,10 +3,6 @@
     require_once 'core/displayData.php';
 ?>
 
-<!-- UPDATES/IMPROVEMENTS: -->
-<!-- 1. Screen that shows all projects and assigned developers -->
-<!-- 2. Menu Screen -->
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
